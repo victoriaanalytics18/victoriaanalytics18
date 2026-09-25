@@ -1,5 +1,5 @@
 Привет! Я Виктория - аналитик данных с пониманием бухгалтерского учета и бизнес-процессов
-Стек инструментов: Python, SQL, продвинутый Excel (сводные таблицы, ВПР) и BI-системы (Yandex DataLens, BI Analytic Workspace)
+
 <!--
 **victoriaanalytics18/victoriaanalytics18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
