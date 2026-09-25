@@ -1,4 +1,4 @@
-## Hi there 👋
+Привет! Я Виктория, аналитик данных с пониманием бухгалтерского учета и бизнес-процессов
 
 <!--
 **victoriaanalytics18/victoriaanalytics18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
