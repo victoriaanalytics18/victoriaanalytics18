@@ -4,6 +4,8 @@
 
 🛠️ Стек инструментов: Python, SQL, основы статистики, продвинутый Excel (сводные таблицы, ВПР) и BI-системы (Yandex DataLens, BI Analytic Workspace).
 
+🚀 HR Analytics: Прогнозирование оттока сотрудников — Дипломный проект по анализу факторов увольнений с использованием машинного обучения для оптимизации HR-стратегий бизнеса (https://github.com/victoriaanalytics18/data-analyst-diploma).
+
 <!--
 **victoriaanalytics18/victoriaanalytics18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
